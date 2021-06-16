@@ -1,4 +1,4 @@
-//In  coresion the typer conversion is doneon its own
+//In  coercion the typer conversion is doneon its own
 //but there is a case such for +
 //and for -,*,%,/ its different 
 //like for + it is this way
