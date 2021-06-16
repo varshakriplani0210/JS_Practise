@@ -15,7 +15,7 @@ let fav=prompt("enter your fav number");
 if(fav==23) //'23'==23 -->True 
 console.log(typeof fav); //string
 console.log(`${fav} is my fav number`);
-//THIS IS NOT THE BEST PRACTISE
+//This is not the best practise
 
 let favo=Number(prompt("Enter your fav number"));
 console.log(typeof favo);
