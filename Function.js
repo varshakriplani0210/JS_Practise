@@ -18,3 +18,5 @@ const juiceapporange=foodProcessor(5,2); // here the juice is not printed so to 
 console.log(juiceapporange);
 //or
 console.log(foodProcessor(4,3));
+//or
+console.log(foodProcessor()); //undefined values
